@@ -169,6 +169,11 @@ by reason of your accepting any such warranty or additional liability.
 END OF TERMS AND CONDITIONS
    </license>
 
+   <includes
+         id="org.testng.p2.feature"
+         version="0.0.0"
+         search-location="self"/>
+
    <plugin
          id="org.testng.eclipse"
          download-size="0"
